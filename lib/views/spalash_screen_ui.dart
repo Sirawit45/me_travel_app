@@ -10,6 +10,8 @@ class SpalashScreenUI extends StatefulWidget {
 class _SpalashScreenUIState extends State<SpalashScreenUI> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold() ;
+    return Scaffold(
+      
+    ) ;
   }
 }
